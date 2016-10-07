@@ -5,4 +5,4 @@ This is a poc for moment-locale HowTo with CDN and Bower
 Run the below mentioned command - 
 >npm install && bower install & node app.js
 
-NOTE - IF any how browser not automatically started you can hit the URL as - http://localhost:8000
+NOTE - IF any how browser not automatically started, you can hit the URL http://localhost:8000 in your browser after npm and bower install.
