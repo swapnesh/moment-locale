@@ -1,0 +1,27 @@
+{
+  "name": "moment-locale",
+  "description": "This is a poc for momentjs locale check",
+  "main": "app.js",
+  "authors": [
+    "Swapnesh Sinha"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "#moment",
+    "#browserSync",
+    "#locale"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "^2.15.1"
+  }
+}

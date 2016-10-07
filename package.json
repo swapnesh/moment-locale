@@ -1,0 +1,20 @@
+{
+  "name": "moment-locale",
+  "version": "1.0.0",
+  "description": "This is a poc for momentjs locale check",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "#moment",
+    "#browserSync",
+    "#locale"
+  ],
+  "author": "Swapnesh Sinha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "opn": "^4.0.2"
+  }
+}
